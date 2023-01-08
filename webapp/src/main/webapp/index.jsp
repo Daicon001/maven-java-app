@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1>Welcome To Daicon Info Tech</h1>
+<h1>Welcome To Motivalogic Academy</h1>
 </body>
 <body style="color:red;">
  <div class="container">
